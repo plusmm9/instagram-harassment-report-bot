@@ -1,0 +1,6 @@
+# Instagram Harassment Report Targets
+# Add one username per line
+# Example:
+# fake_account_123
+# spam_bot_456
+# harassing_user_789
